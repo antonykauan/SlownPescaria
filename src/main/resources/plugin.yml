@@ -1,0 +1,5 @@
+name: SlownPescaria
+version: '${project.version}'
+main: br.pescaria.slownpescaria.SlownPescaria
+commands:
+  pesca:
